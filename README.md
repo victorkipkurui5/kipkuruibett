@@ -1,2 +1,0 @@
-# kipkuruibett
-learning Github
